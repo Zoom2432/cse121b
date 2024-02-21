@@ -1,7 +1,3 @@
-*, *::before, *::after {
-    box-sizing: border-box;
-}
-
 input[type="text"] {
     font-family: inherit; /* 1 */
     font-size: inherit; /* 1 */
